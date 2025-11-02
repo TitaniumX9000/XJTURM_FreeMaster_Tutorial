@@ -1,0 +1,3 @@
+C:/ST/HAL_Tutorial_XT/Tutorial_FreeRTOS_2/FreeMaster_Tutorial/build/CMakeFiles/FreeMaster_Tutorial.elf.dir
+C:/ST/HAL_Tutorial_XT/Tutorial_FreeRTOS_2/FreeMaster_Tutorial/build/CMakeFiles/edit_cache.dir
+C:/ST/HAL_Tutorial_XT/Tutorial_FreeRTOS_2/FreeMaster_Tutorial/build/CMakeFiles/rebuild_cache.dir
